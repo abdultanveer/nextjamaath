@@ -1,11 +1,59 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "nextjamaaths": [
+    { "id":123,
+      "masjidname":"mina masjid",
+      "location":{"latitude":12.9196572,
+                  "longitude":77.5670268},
+      "timings":[
+              {"jumah":1.30, "lastupdated":"12.14pm,25dec2020"},
+              {"fajar":5.45,"lastupdated":"12.14pm,25dec2020"},
+              {"zohar":1.30,"lastupdated":"12.14pm,25dec2020"},
+              {"asar":5.0,"lastupdated":"12.14pm,25dec2020"},
+              {"maghrib":6.0,"lastupdated":"12.14pm,25dec2020"},
+              {"isha":8.30,"lastupdated":"12.14pm,25dec2020"}
+               ]
+      },
+       { "id":123,
+      "masjidname":"mukarram masjid",
+      "location":{"latitude":12.9196572,
+                  "longitude":77.5670268},
+      "timings":[
+              {"jumah":1.30, "lastupdated":"12.14pm,25dec2020"},
+              {"fajar":5.45,"lastupdated":"12.14pm,25dec2020"},
+              {"zohar":1.30,"lastupdated":"12.14pm,25dec2020"},
+              {"asar":5.0,"lastupdated":"12.14pm,25dec2020"},
+              {"maghrib":6.0,"lastupdated":"12.14pm,25dec2020"},
+              {"isha":8.30,"lastupdated":"12.14pm,25dec2020"}
+               ]
+      },
+       { "id":123,
+      "masjidname":"moazzam masjid",
+      "location":{"latitude":12.9196572,
+                  "longitude":77.5670268},
+      "timings":[
+              {"jumah":1.30, "lastupdated":"12.14pm,25dec2020"},
+              {"fajar":5.45,"lastupdated":"12.14pm,25dec2020"},
+              {"zohar":1.30,"lastupdated":"12.14pm,25dec2020"},
+              {"asar":5.0,"lastupdated":"12.14pm,25dec2020"},
+              {"maghrib":6.0,"lastupdated":"12.14pm,25dec2020"},
+              {"isha":8.30,"lastupdated":"12.14pm,25dec2020"}
+               ]
+      },
+       { "id":123,
+      "masjidname":"bilal masjid",
+      "location":{"latitude":12.9196572,
+                  "longitude":77.5670268},
+      "timings":[
+              {"jumah":1.30, "lastupdated":"12.14pm,25dec2020"},
+              {"fajar":5.45,"lastupdated":"12.14pm,25dec2020"},
+              {"zohar":1.30,"lastupdated":"12.14pm,25dec2020"},
+              {"asar":5.0,"lastupdated":"12.14pm,25dec2020"},
+              {"maghrib":6.0,"lastupdated":"12.14pm,25dec2020"},
+              {"isha":8.30,"lastupdated":"12.14pm,25dec2020"}
+               ]
+      }
+      
+      
+    
+  ]
 }
